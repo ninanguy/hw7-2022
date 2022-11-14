@@ -12,7 +12,7 @@ window.addEventListener("load", function() {
 	video.loop = false;
 	console.log("Loop is set to " + video.loop)
 	//load video
-	video.load();
+	// video.load();
 });
 
 // play video function
